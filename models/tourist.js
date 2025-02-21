@@ -26,3 +26,5 @@ const touristSchema = new mongoose.Schema({
 const Tourist = mongoose.model('Tourist',touristSchema)
 
 module.exports = Tourist;
+
+harshit pathak 
